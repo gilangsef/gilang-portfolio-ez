@@ -42,7 +42,7 @@ function Hero() {
         </h1>
         <h2>WEBDEV | CODEROOKIE</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://www.instagram.com/gilangsef12_?igsh=MnZoYXQ4N3Vvd2U4/" target="_blank">
             <img src={instagramIcon} alt="Twitter icon" />
           </a>
           <a href="https://github.com/" target="_blank">
